@@ -64,3 +64,8 @@
 - Created and updated the `progress.md` file to reflect the current state of the project.
 - Connected the local repository to the remote repository.
 - Pushed all local changes to the remote repository and set up tracking.
+- Concluded the merge after resolving conflicts.
+
+## Latest Updates
+- Updated the remote repository to `https://github.com/dethrtrns/advolotv-0.1.git`.
+- Successfully pushed changes to the new remote repository.
